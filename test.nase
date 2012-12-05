@@ -1,0 +1,15 @@
+INTEGER a;
+INTEGER b,c;
+INTEGER d;
+
+a := 42;
+
+READ a;
+
+READ b;
+
+READ c;
+
+d := a+b/c;
+
+WRITE d;
